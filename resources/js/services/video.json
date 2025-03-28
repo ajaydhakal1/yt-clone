@@ -1,0 +1,174 @@
+{
+    "videos": [
+        {
+            "id": "1",
+            "title": "How to Learn Flutter in 2024",
+            "description": "A complete guide on how to get started with Flutter.",
+            "url": "https://www.youtube.com/watch?v=abc123",
+            "thumbnail": "https://img.youtube.com/vi/abc123/maxresdefault.jpg",
+            "duration": "10:35",
+            "views": "50k",
+            "likes": 35000,
+            "dislikes": 500,
+            "comments": 1500,
+            "uploadDate": "2024-03-01",
+            "uploader": {
+                "name": "Tech Guru",
+                "channelUrl": "https://www.youtube.com/c/TechGuru"
+            }
+        },
+        {
+            "id": "2",
+            "title": "Next.js Crash Course",
+            "description": "Everything you need to know about Next.js in one video!",
+            "url": "https://www.youtube.com/watch?v=def456",
+            "thumbnail": "https://img.youtube.com/vi/def456/maxresdefault.jpg",
+            "duration": "15:20",
+            "views": "82k",
+            "likes": 48000,
+            "dislikes": 600,
+            "comments": 2200,
+            "uploadDate": "2024-02-15",
+            "uploader": {
+                "name": "Code Master",
+                "channelUrl": "https://www.youtube.com/c/CodeMaster"
+            }
+        },
+        {
+            "id": "3",
+            "title": "AI in 2024: What to Expect",
+            "description": "The latest trends and advancements in artificial intelligence.",
+            "url": "https://www.youtube.com/watch?v=ghi789",
+            "thumbnail": "https://img.youtube.com/vi/ghi789/maxresdefault.jpg",
+            "duration": "12:45",
+            "views": "62k",
+            "likes": 41000,
+            "dislikes": 550,
+            "comments": 1800,
+            "uploadDate": "2024-02-20",
+            "uploader": {
+                "name": "AI Insights",
+                "channelUrl": "https://www.youtube.com/c/AIInsights"
+            }
+        },
+        {
+            "id": "4",
+            "title": "Mastering Tailwind CSS",
+            "description": "Learn how to build modern UI with Tailwind CSS.",
+            "url": "https://www.youtube.com/watch?v=jkl012",
+            "thumbnail": "https://img.youtube.com/vi/jkl012/maxresdefault.jpg",
+            "duration": "9:50",
+            "views": "30k",
+            "likes": 25000,
+            "dislikes": 400,
+            "comments": 1200,
+            "uploadDate": "2024-03-05",
+            "uploader": {
+                "name": "Frontend Pro",
+                "channelUrl": "https://www.youtube.com/c/FrontendPro"
+            }
+        },
+        {
+            "id": "5",
+            "title": "Building a Full-Stack SaaS App",
+            "description": "Step-by-step guide to creating a SaaS application.",
+            "url": "https://www.youtube.com/watch?v=mno345",
+            "thumbnail": "https://img.youtube.com/vi/mno345/maxresdefault.jpg",
+            "duration": "22:10",
+            "views": "91k",
+            "likes": 62000,
+            "dislikes": 700,
+            "comments": 3200,
+            "uploadDate": "2024-03-10",
+            "uploader": {
+                "name": "SaaS Wizard",
+                "channelUrl": "https://www.youtube.com/c/SaaSWizard"
+            }
+        },
+        {
+            "id": "1",
+            "title": "How to Learn Flutter in 2024",
+            "description": "A complete guide on how to get started with Flutter.",
+            "url": "https://www.youtube.com/watch?v=abc123",
+            "thumbnail": "https://img.youtube.com/vi/abc123/maxresdefault.jpg",
+            "duration": "10:35",
+            "views": "50k",
+            "likes": 35000,
+            "dislikes": 500,
+            "comments": 1500,
+            "uploadDate": "2024-03-01",
+            "uploader": {
+                "name": "Tech Guru",
+                "channelUrl": "https://www.youtube.com/c/TechGuru"
+            }
+        },
+        {
+            "id": "2",
+            "title": "Next.js Crash Course",
+            "description": "Everything you need to know about Next.js in one video!",
+            "url": "https://www.youtube.com/watch?v=def456",
+            "thumbnail": "https://img.youtube.com/vi/def456/maxresdefault.jpg",
+            "duration": "15:20",
+            "views": "82k",
+            "likes": 48000,
+            "dislikes": 600,
+            "comments": 2200,
+            "uploadDate": "2024-02-15",
+            "uploader": {
+                "name": "Code Master",
+                "channelUrl": "https://www.youtube.com/c/CodeMaster"
+            }
+        },
+        {
+            "id": "3",
+            "title": "AI in 2024: What to Expect",
+            "description": "The latest trends and advancements in artificial intelligence.",
+            "url": "https://www.youtube.com/watch?v=ghi789",
+            "thumbnail": "https://img.youtube.com/vi/ghi789/maxresdefault.jpg",
+            "duration": "12:45",
+            "views": "62k",
+            "likes": 41000,
+            "dislikes": 550,
+            "comments": 1800,
+            "uploadDate": "2024-02-20",
+            "uploader": {
+                "name": "AI Insights",
+                "channelUrl": "https://www.youtube.com/c/AIInsights"
+            }
+        },
+        {
+            "id": "4",
+            "title": "Mastering Tailwind CSS",
+            "description": "Learn how to build modern UI with Tailwind CSS.",
+            "url": "https://www.youtube.com/watch?v=jkl012",
+            "thumbnail": "https://img.youtube.com/vi/jkl012/maxresdefault.jpg",
+            "duration": "9:50",
+            "views": "30k",
+            "likes": 25000,
+            "dislikes": 400,
+            "comments": 1200,
+            "uploadDate": "2024-03-05",
+            "uploader": {
+                "name": "Frontend Pro",
+                "channelUrl": "https://www.youtube.com/c/FrontendPro"
+            }
+        },
+        {
+            "id": "5",
+            "title": "Building a Full-Stack SaaS App",
+            "description": "Step-by-step guide to creating a SaaS application.",
+            "url": "https://www.youtube.com/watch?v=mno345",
+            "thumbnail": "https://img.youtube.com/vi/mno345/maxresdefault.jpg",
+            "duration": "22:10",
+            "views": "91k",
+            "likes": 62000,
+            "dislikes": 700,
+            "comments": 3200,
+            "uploadDate": "2024-03-10",
+            "uploader": {
+                "name": "SaaS Wizard",
+                "channelUrl": "https://www.youtube.com/c/SaaSWizard"
+            }
+        }
+    ]
+}
